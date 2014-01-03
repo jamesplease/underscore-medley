@@ -1,0 +1,22 @@
+{
+  "name": "underscore-medley",
+  "main": "underscore-medley.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jmeas/underscore-medley",
+  "authors": [
+    "Jmeas <jellyes2@gmail.com>"
+  ],
+  "description": "An assortment of Underscore mixins",
+  "keywords": [
+    "underscore",
+    "mixins"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
