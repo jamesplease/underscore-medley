@@ -1,7 +1,7 @@
 {
   "name": "underscore-medley",
   "main": "underscore-medley.js",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "homepage": "https://github.com/jmeas/underscore-medley",
   "authors": [
     "Jmeas <jellyes2@gmail.com>"
